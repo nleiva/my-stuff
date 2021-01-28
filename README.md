@@ -1,14 +1,17 @@
-# Blog Posts
+<p align="center">
+  <img height="175" title="My Blog Posts" src="static/flat-2126884.svg"><br>
+  <b>My Blog Posts</b><br>
+</p>
+
+---
 
 Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
-## Links
-
-### 2021
+## 2021
 - [Monitoring your home lab devices in the cloud for free](https://nleiva.medium.com/monitoring-your-home-lab-devices-in-the-cloud-for-free-54c4d11ac471)
 
-### 2020
+## 2020
 - [Create an Ansible module for integrating your Google Calendar](https://opensource.com/article/20/10/ansible-module-go)
 - [Integrate your calendar with Ansible to avoid schedule conflicts](https://opensource.com/article/20/10/calendar-ansible)
 - [How to make the case for automation architecture: 5 ways to win investment](https://www.redhat.com/architect/automation-architecture)
@@ -27,5 +30,5 @@ In the future I might add the markdown of each as well here.
 - [Kubernetes Networking: Behind the scenes](https://medium.com/@nleiva/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 
 ## 2017
-- [Validate the intent of network config changes]https://xrdocs.io/programmability/tutorials/2017-08-14-validate-the-intent-of-network-config-changes/)
+- [Validate the intent of network config changes](https://xrdocs.io/programmability/tutorials/2017-08-14-validate-the-intent-of-network-config-changes/)
 - [Programming IOS-XR with gRPC and Go](https://xrdocs.io/programmability/tutorials/2017-08-04-programming-ios-xr-with-grpc-and-go/)
