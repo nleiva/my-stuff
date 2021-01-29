@@ -20,6 +20,7 @@ In the future I might add the markdown of each as well here.
 - [Python and Ansible to automate a Network Security workflow](https://medium.com/@nleiva/python-and-ansible-to-automate-a-network-security-workflow-28b9a44660c6?source=friends_link&sk=1611e6d422030a8dc756fe1e9f46717d)
 
 ## 2019
+- [Navigating the uncharted waters of SSL/TLS certificates and gRPC with Go](https://blog.gopheracademy.com/advent-2019/go-grps-and-tls/)
 - [Practical guide to securing gRPC connections with Go and TLS — Part 2](https://itnext.io/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-2-994ef93b8ea9)
 - [Practical guide to securing gRPC connections with Go and TLS — Part 1](https://itnext.io/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1)
 - [Running IPv6-enabled Docker Containers on AWS](https://medium.com/@nleiva/running-ipv6-enabled-docker-containers-on-aws-87e090ab0397)
