@@ -33,3 +33,6 @@ In the future I might add the markdown of each as well here.
 ## 2017
 - [Validate the intent of network config changes](https://xrdocs.io/programmability/tutorials/2017-08-14-validate-the-intent-of-network-config-changes/)
 - [Programming IOS-XR with gRPC and Go](https://xrdocs.io/programmability/tutorials/2017-08-04-programming-ios-xr-with-grpc-and-go/)
+
+## 2016
+- [Interconnecting vRouters with VPP](https://wiki.fd.io/view/VPP/Interconnecting_vRouters_with_VPP)
