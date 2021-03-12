@@ -17,7 +17,7 @@ In the future I might add the markdown of each as well here.
 - [How to make the case for automation architecture: 5 ways to win investment](https://www.redhat.com/architect/automation-architecture)
 - [Get Yourself GOing with Ansible](https://codeburst.io/get-yourself-going-with-ansible-60ca623bf4)
 - [Ansible and Google Calendar Integration for Change Management](https://medium.com/swlh/ansible-and-google-calendar-integration-for-change-management-7c00553b3d5a)
-- [Python and Ansible to automate a Network Security workflow](https://medium.com/@nleiva/python-and-ansible-to-automate-a-network-security-workflow-28b9a44660c6?source=friends_link&sk=1611e6d422030a8dc756fe1e9f46717d)
+- [Python and Ansible to automate a Network Security workflow](https://medium.com/swlh/python-and-ansible-to-automate-a-network-security-workflow-28b9a44660c6)
 
 ## 2019
 - [Navigating the uncharted waters of SSL/TLS certificates and gRPC with Go](https://blog.gopheracademy.com/advent-2019/go-grps-and-tls/)
