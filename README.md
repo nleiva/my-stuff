@@ -5,11 +5,6 @@
 
 ---
 
-# GitHub stars
-
-[![stars][static/github.png]][https://star-history.t9t.io/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar]
-
-
 # Blog posts
 
 Links to all my blog posts.
@@ -43,3 +38,9 @@ In the future I might add the markdown of each as well here.
 
 ## 2016
 - [Interconnecting vRouters with VPP](https://wiki.fd.io/view/VPP/Interconnecting_vRouters_with_VPP)
+
+# GitHub stars
+
+![stars](static/github.png)
+
+[**SOURCE**](https://star-history.t9t.io/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar)
