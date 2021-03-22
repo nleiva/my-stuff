@@ -1,9 +1,16 @@
 <p align="center">
-  <img height="175" title="My Blog Posts" src="static/flat-2126884.svg"><br>
-  <b>My Blog Posts</b><br>
+  <img height="175" title="My stuff" src="static/flat-2126884.svg"><br>
+  <b>My Stuff</b><br>
 </p>
 
 ---
+
+# GitHub stars
+
+[![stars][static/github.png]][https://star-history.t9t.io/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar]
+
+
+# Blog posts
 
 Links to all my blog posts.
 In the future I might add the markdown of each as well here.
