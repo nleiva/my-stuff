@@ -11,6 +11,7 @@ Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
 ## 2021
+- [Network MOP's as automated workflows](https://www.ansible.com/blog/network-mops-as-automated-workflows)
 - [5 ways to process JSON data in Ansible](https://opensource.com/article/21/4/process-json-data-ansible)
 - [Monitoring your home lab devices in the cloud for free](https://nleiva.medium.com/monitoring-your-home-lab-devices-in-the-cloud-for-free-54c4d11ac471)
 
