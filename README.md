@@ -11,6 +11,7 @@ Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
 ## 2021
+- [Mapping SAML attributes to Red Hat Ansible Automation Platform organizations and teams](https://www.ansible.com/blog/mapping-saml-attributes-to-red-hat-ansible-automation-platform-organizations-and-teams)
 - [3 tips to make your GitHub profile stand out](https://nleiva.medium.com/3-tips-to-make-your-github-profile-stand-out-7b7a73c54572)
 - [Network MOP's as automated workflows](https://www.ansible.com/blog/network-mops-as-automated-workflows)
 - [5 ways to process JSON data in Ansible](https://opensource.com/article/21/4/process-json-data-ansible)
