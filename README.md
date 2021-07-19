@@ -11,6 +11,7 @@ Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
 ## 2021
+- [A simple guide to quickly provisioning AWS resources with Ansible](https://nleiva.medium.com/a-simple-guide-to-quickly-provisioning-aws-resources-with-ansible-35e67ae15b9c)
 - [How to consistently run temporary workloads on AWS and save money](https://nleiva.medium.com/how-you-can-consistently-run-temporary-workloads-in-the-cloud-37140b4b5e55)
 - [Mapping SAML attributes to Red Hat Ansible Automation Platform organizations and teams](https://www.ansible.com/blog/mapping-saml-attributes-to-red-hat-ansible-automation-platform-organizations-and-teams)
 - [3 tips to make your GitHub profile stand out](https://nleiva.medium.com/3-tips-to-make-your-github-profile-stand-out-7b7a73c54572)
