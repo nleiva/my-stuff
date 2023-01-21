@@ -10,6 +10,9 @@
 Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
+## 2023
+- [Network automation: What architects need to know](https://www.redhat.com/architect/network-automation)
+
 ## 2021
 - [Three reasons we need IPv6 …in Kubernetes](https://nleiva.medium.com/three-reasons-we-need-ipv6-in-kubernetes-69b6f3cbadb7?sk=c0ce0e2a24638a232268d26394200af8)
 - [A simple approach to delete AWS resources with Ansible](https://nleiva.medium.com/a-simple-approach-to-delete-aws-resources-with-ansible-b31c796fa16d)
