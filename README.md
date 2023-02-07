@@ -11,6 +11,7 @@ Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
 ## 2023
+- [The downside of getting a CCDE if you are a CCIE](https://nleiva.medium.com/the-downside-of-getting-a-ccde-if-you-are-a-ccie-caa126834073)
 - [Network automation: What architects need to know](https://www.redhat.com/architect/network-automation)
 
 ## 2021
