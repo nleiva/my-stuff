@@ -55,6 +55,6 @@ In the future I might add the markdown of each as well here.
 
 # GitHub stars
 
-![stars](static/github.png)
+[![Star History Chart](https://api.star-history.com/svg?repos=nleiva/kubernetes-networking-links,nleiva/grpc-tls,nleiva/go-links,nleiva/xrgrpc,nleiva/kubernetes-the-hard-way,nleiva/ansible-links,nleiva/gmessaging,nleiva/capirca_acl,nleiva/check-calendar&type=Date)](https://star-history.com/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar)
 
 [**SOURCE**](https://star-history.t9t.io/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar)
