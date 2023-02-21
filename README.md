@@ -15,6 +15,9 @@ In the future I might add the markdown of each as well here.
 - [The downside of getting a CCDE if you are a CCIE](https://nleiva.medium.com/the-downside-of-getting-a-ccde-if-you-are-a-ccie-caa126834073)
 - [Network automation: What architects need to know](https://www.redhat.com/architect/network-automation)
 
+## 2022
+- Hiatus to write a [book](https://www.amazon.com/dp/1800560923) 
+
 ## 2021
 - [Three reasons we need IPv6 …in Kubernetes](https://nleiva.medium.com/three-reasons-we-need-ipv6-in-kubernetes-69b6f3cbadb7?sk=c0ce0e2a24638a232268d26394200af8)
 - [A simple approach to delete AWS resources with Ansible](https://nleiva.medium.com/a-simple-approach-to-delete-aws-resources-with-ansible-b31c796fa16d)
@@ -55,6 +58,6 @@ In the future I might add the markdown of each as well here.
 
 # GitHub stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nleiva/kubernetes-networking-links,nleiva/grpc-tls,nleiva/go-links,nleiva/xrgrpc,nleiva/kubernetes-the-hard-way,nleiva/ansible-links,nleiva/gmessaging,nleiva/capirca_acl,nleiva/check-calendar&type=Date)](https://star-history.com/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar)
+![stars](static/github.png)
 
 [**SOURCE**](https://star-history.t9t.io/#nleiva/kubernetes-networking-links&nleiva/grpc-tls&nleiva/go-links&nleiva/xrgrpc&nleiva/kubernetes-the-hard-way&nleiva/ansible-links&nleiva/gmessaging&nleiva/capirca_acl&nleiva/check-calendar)
