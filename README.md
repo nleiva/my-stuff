@@ -11,6 +11,7 @@ Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
 ## 2023
+- [Automating Azure Infrastructure for High Availability Web Hosting with Ansible](https://medium.com/@nleiva/automating-azure-infrastructure-with-ansible-45fee00971d)
 - [Automating Network Device Configuration Parsing with Ansible: Tips and Tricks for Network Engineers](https://nleiva.medium.com/automating-network-device-configuration-parsing-with-ansible-99790909c384)
 - [How I created a Red Hat OpenShift cluster on tiny hardware](https://www.redhat.com/sysadmin/low-cost-openshift-cluster)
 - [Network Automation with Go](https://nleiva.medium.com/network-automation-with-go-96341507a369)
