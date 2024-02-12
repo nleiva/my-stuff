@@ -51,6 +51,7 @@ In the future I might add the markdown of each as well here.
 - [Kubernetes multi-cluster networking made simple](https://medium.com/@nleiva/kubernetes-multi-cluster-networking-made-simple-c8f26827813)
 - [Documenting Network Automation Examples on DevNet Code Exchange](https://blogs.cisco.com/developer/documenting-network-automation)
 - [Kubernetes Networking: Behind the scenes](https://medium.com/@nleiva/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
+- [GopherCon 2018 Lightning Talk - Container Network Interface and Go](https://www.youtube.com/watch?v=0SXPsLvB0UI)
 
 ## 2017
 - [Validate the intent of network config changes](https://xrdocs.io/programmability/tutorials/2017-08-14-validate-the-intent-of-network-config-changes/)
