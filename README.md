@@ -10,6 +10,9 @@
 Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
+## 2024
+- [10 Awesome Free Resources to Learn Go](https://medium.com/@nleiva/learn-go-45d4b9c177c7)
+
 ## 2023
 - [Automating Azure Infrastructure for High Availability Web Hosting with Ansible](https://medium.com/@nleiva/automating-azure-infrastructure-with-ansible-45fee00971d)
 - [Automating Network Device Configuration Parsing with Ansible: Tips and Tricks for Network Engineers](https://nleiva.medium.com/automating-network-device-configuration-parsing-with-ansible-99790909c384)
