@@ -10,6 +10,9 @@
 Links to all my blog posts.
 In the future I might add the markdown of each as well here.
 
+## 2025
+- [Practical YANG Data Modeling with Go](https://nleiva.medium.com/yang-data-modeling-b54783fcc94a)
+
 ## 2024
 - [10 Awesome Free Resources to Learn Go](https://medium.com/@nleiva/learn-go-45d4b9c177c7)
 
