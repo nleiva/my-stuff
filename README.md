@@ -7,7 +7,7 @@
 
 # Blog posts
 
-Curated collection of my professional and technical content—blog posts, presentations, and related resources.
+Curated collection of my professional and technical content: blog posts, presentations, and related resources.
 
 ## 2025
 - [Practical YANG Data Modeling with Go](https://nleiva.medium.com/yang-data-modeling-b54783fcc94a)
