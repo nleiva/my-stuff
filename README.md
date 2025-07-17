@@ -7,8 +7,7 @@
 
 # Blog posts
 
-Links to all my blog posts.
-In the future I might add the markdown of each as well here.
+Curated collection of my professional and technical content—blog posts, presentations, and related resources.
 
 ## 2025
 - [Practical YANG Data Modeling with Go](https://nleiva.medium.com/yang-data-modeling-b54783fcc94a)
